@@ -5,7 +5,7 @@
 **With the integration, administrators can create policies and view reports on a per-VPN basis.**
 <br>
 
-![illustration](./images/sdwan-umbrella.png)
+![illustration](./images/sdwan-umbrella.jpg)
 
 # Objective 
 
