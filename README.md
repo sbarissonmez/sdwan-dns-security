@@ -1,7 +1,9 @@
 **Cisco’s SD-WAN and Umbrella integration enables you to deploy Umbrella across your SD-WAN to hundreds of devices in minutes and instantly gain web and DNS-layer protection against threats. You gain the cost-savings and improved performance of direct internet access (DIA) at branch offices, without sacrificing security or the burden of managing devices individually.**
 <br>
+
 **Deploy Umbrella deploys instantly across your SD-WAN in minutes to provide web and DNS-layer protection against threats wherever users access the internet.**
 <br>
+
 **With the integration, administrators can create policies and view reports on a per-VPN basis.**
 <br>
 
